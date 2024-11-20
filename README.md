@@ -10,7 +10,7 @@ Additionally, (2) radiologists require years of specialized training, with a typ
 By leveraging Large Language Models (LLMs), this project aims to automate the process of generating radiology-level reports, significantly reducing both the time and costs involved. Integrating specialized LLMs for medical tasks has the potential:
 To streamline clinical workflows
 To lower operational costs, and alleviate the burden of note taking for radiologists, allowing them to focus on more complex cases and improving overall efficiency in the healthcare system.
-Radiology is a very text intensive field with doctors producing multiple reports,notes as a result this is a natural fit for LLMs, this in turn provides an opportunity for the LLM to simplify the report from a user perspective
+Radiology is a very text intensive field with doctors producing multiple reports,notes as a result this is a natural fit for LLMs, this in turn provides an opportunity for the LLM to simplify the report from a user perspective.
 ![alt text](workflow.png)
 # Why do this?
 The project addresses the pressing challenges in medical imaging, particularly in radiology, by using Large Language Models (LLMs) for automating radiology report generation. Here are the key reasons motivating this initiative:
