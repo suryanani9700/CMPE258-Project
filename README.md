@@ -11,7 +11,7 @@ By leveraging Large Language Models (LLMs), this project aims to automate the pr
 To streamline clinical workflows
 To lower operational costs, and alleviate the burden of note taking for radiologists, allowing them to focus on more complex cases and improving overall efficiency in the healthcare system.
 Radiology is a very text intensive field with doctors producing multiple reports,notes as a result this is a natural fit for LLMs, this in turn provides an opportunity for the LLM to simplify the report from a user perspective
-
+![alt text](workflow.png)
 # Why do this?
 The project addresses the pressing challenges in medical imaging, particularly in radiology, by using Large Language Models (LLMs) for automating radiology report generation. Here are the key reasons motivating this initiative:
 Labor and cost efficiency: Radiologists are highly trained specialists who command significant salaries, especially in locations like California where wages exceed the national average by 34%. Moreover, with radiologists working extensive hours, the cumulative cost of labor for generating radiology reports is substantial. Automating this task with LLMs can reduce labor time and associated costs drastically.
@@ -22,6 +22,7 @@ Potential for technology integration: Advanced in LLMs, such as the proposed int
 The projects can be divided into two parts:
 First we show how we can design the integration of an LLM in a clinical radiological workflow
 Second how we can use existing LLMs (customizable for specific radiology diseases specifically for hard to detect cases as Cancer) and the other how we can enhance the understanding and the simplification of the report from a user perspective
+
 
 # References
 [1] Wang, Z., Luo, X., Jiang, X., Li, D., & Qiu, L. (2024). “LLM-RadJudge: Achieving Radiologist-Level Evaluation for X-Ray Report Generation.” arXiv, Submitted on April 1, 2024.
