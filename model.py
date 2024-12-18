@@ -6,8 +6,8 @@ import torch.nn as nn
 from torch.utils.data import DataLoader, Dataset
 from transformers import CLIPProcessor, CLIPModel
 
-image_path = "/Users/sasankperumal/Documents/258/images/test_image.jpg" 
-report_path = "/Users/sasankperumal/Documents/258/s50414267.txt" 
+image_path = "sample_dataset/image.jpg" 
+report_path = "sample_dataset/s50414267.txt" 
 device = "cuda" if torch.cuda.is_available() else "cpu"
 
 model = CLIPModel.from_pretrained("openai/clip-vit-base-patch32")
