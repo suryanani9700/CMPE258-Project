@@ -1,3 +1,8 @@
+# Team 17
+Aadit Kapoor: Model Architecture, Knowledge Extractor using BioBert
+Sasank Perumal: Fine Tuning, Frontend (Streamlit)
+Venkata Surya Kiran Naidu Vakkalagadda: Evaluation, EDA
+
 # Introduction
 Radiology by nature generates a lot of text data, this makes it an ideal case for an LLM. Some examples of the data modalities generated are as follows:
 Reports
