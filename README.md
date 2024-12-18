@@ -1,3 +1,5 @@
+# Where Generative A.I meets Radiology: Multimodal LLMs based Radiology Report Generation and Simplification
+
 # Team 17
 Aadit Kapoor: Model Architecture, Knowledge Extractor using BioBert<br>
 Sasank Perumal: Fine Tuning, Frontend (Streamlit)
