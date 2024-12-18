@@ -1,6 +1,5 @@
 # Team 17
 Aadit Kapoor: Model Architecture, Knowledge Extractor using BioBert<br>
-<br>
 Sasank Perumal: Fine Tuning, Frontend (Streamlit)
 <br>
 Venkata Surya Kiran Naidu Vakkalagadda: Evaluation, EDA
