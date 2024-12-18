@@ -7,7 +7,6 @@ from PIL import Image
 import torch
 
 
-    return bleu, readability
 def use_baseline(image_path: str) -> str:
     # normal image captioning model
     model_name = "nlpconnect/vit-gpt2-image-captioning"
@@ -34,6 +33,8 @@ def compute_scores(generated_text, reference_text):
 
     # Compute Flesch Reading Ease score
     readability = textstat.flesch_reading_ease(generated_text)
+
+    return bleu,readability
     
 
 #bleu_score, readability_score = compute_scores(generated_text, reference_text)
